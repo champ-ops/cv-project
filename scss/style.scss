@@ -1,0 +1,22 @@
+
+@import "slick";
+.carousel-in{
+  img{
+    width: 100%;
+  }
+  button{
+    width: 65px;
+    background-color: transparent;
+    border: none;
+  }
+  .slick-prev{
+    position: absolute;
+    left: -70px;
+    top: 50%;
+  }
+  .slick-next{
+    position: absolute;
+    right: -70px;
+    top: 50%;
+  }
+}
