@@ -1,8 +1,12 @@
 @media (max-width: 1200px) {
-
+    .box{
+        height: 350px;
+    }
 }
 @media (max-width: 992px) {
-
+    .box{
+        height: 350px;
+    }
 }
 @media (max-width: 768px) {
     .box{
