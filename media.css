@@ -5,10 +5,16 @@
 
 }
 @media (max-width: 768px) {
+    .box{
+        height: 380px;
+    }
  .timeline:before{
      left: 50%;
  }
 }
 @media (max-width: 540px) {
+    .box{
+        height: 410px;
+    }
 
 }
